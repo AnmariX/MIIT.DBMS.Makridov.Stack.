@@ -1,9 +1,0 @@
-﻿  main.cpp
-C:\Users\anmar\Documents\2024\СУБД\polygon\Lab_1\main.cpp(10,18): error C2661: Polygon::Polygon: нет перегруженной функции, принимающей 2 аргументов
-      C:\Users\anmar\Documents\2024\СУБД\polygon\Lab_1\main.cpp(10,18):
-      при попытке сопоставить список аргументов "(double, int)"
-  
-C:\Users\anmar\Documents\2024\СУБД\polygon\Lab_1\main.cpp(11,30): error C2661: Polygon::Polygon: нет перегруженной функции, принимающей 2 аргументов
-      C:\Users\anmar\Documents\2024\СУБД\polygon\Lab_1\main.cpp(11,30):
-      при попытке сопоставить список аргументов "(int, int)"
-  
